@@ -1,2 +1,2 @@
 # ML-From-Scratch
-this repo create to upload my task add pacman
+Create machine learning (Linear regression, KNN-Regression, and PCA) from scratch 
